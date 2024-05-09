@@ -10,7 +10,7 @@
             "name": "Launch Chrome against localhost",
             "url": "http://localhost:8080",
             "webRoot": "${workspaceFolder}",
-            "file": "${workspaceFolder}\\main.html"
+            "file": "C:\\Users\\ymerz\\OneDrive\\Documents\\Projects\\Front-end\\Freecodecamp\\Project1\\main.html"
 
         }
     ]
